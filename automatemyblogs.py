@@ -1,9 +1,8 @@
-import re
 import requests
 import time
 import random
 import openai
-import csv
+
 
 # Authentication
 openai.api_key = ''  # add your OpenAI API Key here
